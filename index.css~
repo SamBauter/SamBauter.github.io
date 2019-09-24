@@ -1,0 +1,53 @@
+body { 
+background-color:powderblue;
+width:30%;
+       }
+h1 {
+margin: auto;
+color: teal;
+text-align: center;;
+text-decoration: underline;
+text-transform: uppercase;
+letter-spacing: 5px;
+text-shadow:3px 2px yellow;
+
+
+ }
+
+h2 { 
+color: green;
+text-align: center;
+letter-spacing: 3px;
+ }
+
+p{ 
+text-align: center;
+margin: 10px 25px 25px 10px;
+ }
+
+ul{ 
+text-align:center;
+list-style:inside;
+ }
+li{ 
+text-align:center;
+list-style:inside;
+ }
+
+.portrait{ 
+border-radius:100%;
+width:20%;
+height:20%;
+float: left;
+
+ }
+
+.description{ 
+line-height:1.6;
+font-size:28px;
+text-align: justify;
+margin-left:50px;
+}
+
+.firstline{ 
+          float:left;}
