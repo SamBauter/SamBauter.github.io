@@ -1,0 +1,5 @@
+#Don't Track these files types #
+#######################
+*.css~
+*.css#
+*.cs#
