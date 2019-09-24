@@ -1,0 +1,27 @@
+body { 
+background-color:powderblue;
+       }
+h1 {
+color: teal;
+text-align: left;
+text-decoration: underline;
+text-transform: uppercase;
+letter-spacing: 5px;
+text-shadow:3px 2px blue;
+
+ }
+
+h2 { 
+color: green;
+text-align: center;
+letter-spacing: 3px;
+ }
+
+p{ 
+text-align: center;
+ }
+
+.portrait{ 
+border-radius:50%;
+
+ }
